@@ -1,0 +1,28 @@
+✅Definir variáveis
+  ✔Real= para algarítmos inteiros ou decimais
+  ✔Inteiros= para números inteiros
+  ✔Caractere= letras, no Portugol esse comando é apenas para uma letra, para utilizar várias letras é usado o comando "cadeia" Portugol.
+  ✔Lógico= para algaritmos de true ou false
+✅
+✅<,>,==,/,*, ++, +, - (é possível junta-los)
+  ✔<= menor que
+  ✔>= maior que
+  ✔==: igual
+  ✔/=  divisão
+  ✔*= vezes
+  ✔variável ++: variável= variável+1
+  ✔+= soma
+  ✔-= subtração
+✅
+✅Troca de informações:
+  ✔escreva("texto")= digitar na tela
+  ✔leia(variável)= digitar a informação
+  ✔+(Portugol),&(progama com nome difícil)= concatenar um elemento com outro. Ex: escreva("Sua média é:" + media)
+  ✔"\n" += quebra de linha. Ex: escreva("\n" + "Parabéns!! Você passou de ano!")
+  ✔variável = valor : comando para atribuir valor para uma variável. Ex: media = (nota1+nota2+nota3+nota4)/4
+  ✔se(condição) {o que deve acontecer}= se a condição for verdadeira. Ex: se(media>=7) {escreva("Parabens!! Você foi aprovado")
+  ✔senao{o que deve acontecer}= se a condição for falsa. Ex: senao(media<7) {escreva("Você foi reprovado!")
+  ✔faca= realizar uma série de comandos
+✅
+💬//=  comentários
+
